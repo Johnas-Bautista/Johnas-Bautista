@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Johnas+Bautista!+%F0%9F%91%8B;Full+Stack+Developer;Cybersecurity+Enthusiast;Cloud+%26+Network+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Johnas+Bautista!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Cloud+Explorer+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 I'm a passionate Full Stack Developer with a strong foundation in web development, cybersecurity, and cloud technologies. I love building scalable applications and exploring new technologies to solve real-world problems.
 
 - 🔭 **Current Focus:** Learning React.js for my next project
-- 🌱 **Always Learning:** Cloud computing, cybersecurity best practices, and modern web frameworks
+- 🌱 **Always Learning:** Cloud computing fundamentals, cybersecurity best practices, and modern web frameworks
 - 🎓 **Certified Professional:** ISC2 Certified in Cybersecurity (CC)
 - 💼 **Experience:** Building enterprise-level document management systems with Laravel
 - 🚀 **Interests:** Progressive Web Apps (PWA), Cloud Architecture, Network Security
@@ -122,7 +122,7 @@ I'm a passionate Full Stack Developer with a strong foundation in web developmen
 ## 🌱 Currently Learning
 
 - ⚛️ **React.js** - Building modern, interactive user interfaces
-- ☁️ **AWS Cloud Services** - Deepening cloud architecture knowledge
+- ☁️ **AWS Cloud Fundamentals (Theory)** - Applying cloud fundamentals to real-world projects
 - 🔒 **Advanced Cybersecurity** - Implementing security best practices
 - 🏗️ **Microservices Architecture** - Exploring Spring Boot patterns
 
@@ -139,9 +139,9 @@ Web Development:
   - Database Design & Optimization
 
 Cloud & DevOps:
-  - AWS Cloud Services
-  - Cloud Architecture Fundamentals
+  - AWS Cloud Fundamentals (Theory)
   - SMTP & Email Integration
+  - Version Control (Git)
 
 Cybersecurity:
   - ISC2 Certified in Cybersecurity
